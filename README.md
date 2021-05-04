@@ -6,3 +6,13 @@ SO THAT my company can compete with other e-commerce companies
 Table of contents :
 github email LICENSE
 
+Author :
+name : Fadhaa Abdullah
+Email: fadhaaabdullah8991@gmail.com
+Github page: Fadhaa89
+
+My Links :
+Repo Link :
+https://github.com/fadhaa89/e-commerce
+
+Visuals :
