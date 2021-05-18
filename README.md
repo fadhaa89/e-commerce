@@ -23,3 +23,4 @@ https://github.com/fadhaa89/e-commerce
 
 # Visuals :
 ![Example Gif](./assets/example.gif)
+![Example Gid](./assets/example2.eif)
